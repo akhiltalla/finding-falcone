@@ -1,0 +1,37 @@
+.wrapper{
+    width: 100%;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 501px;
+}
+.content h2{
+    color: white;
+}
+.content p{
+    font-size: 20px;
+    margin: 15px auto;
+    color: white;
+    text-align: center;
+}
+.btn button{
+    padding: 7px 15px;
+    border-radius: 5px;
+    font-size: 15px
+}
+.btn{
+    margin: 30px auto;
+}
+.btn button:hover{
+    cursor: pointer;
+    font-size: 15.5px;
+}
+.loader-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 500px;
+}

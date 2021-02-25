@@ -1,0 +1,17 @@
+.header{
+    width: 100%;
+    background: #333;
+    padding: 18px 0;
+    color: #fff;
+    top: 0;
+}
+.header-container{
+    width: 1300px;
+    margin: 0 auto; 
+}
+nav a{
+    color: #fff;
+    text-decoration: none;
+    padding: 7px 25px;
+    display: inline-block;
+}
